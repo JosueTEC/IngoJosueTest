@@ -6,6 +6,7 @@ Está implementado con Nodejs
     <li>Descarga el repositorio</li>
     <li>Ejecutar npm i</li>
     <li> Ejecutar npm start</li>
+    <li>La consulta a realizar es http://localhost:3000/api/getNames</li>
 </ul>
 
 <h3>Importante</h3>
